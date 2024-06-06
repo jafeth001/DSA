@@ -1,4 +1,4 @@
-package binaryTreeAlgo;
+package linked.binaryTree;
 
 public class Node {
     int data;
@@ -6,7 +6,6 @@ public class Node {
     Node right;
 
     public Node(int data) {
-        this.data=data;
+        this.data = data;
     }
-
 }

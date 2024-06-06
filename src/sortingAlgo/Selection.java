@@ -8,7 +8,7 @@ public class Selection {
 
         for (int i=0;i<arr.length-1;i++){
             minIndex=i;
-            for (int j=i+1;j< arr.length-1;j++){
+            for (int j=i+1;j< arr.length;j++){
                 if (arr[minIndex]>arr[j]){
                     minIndex=j;
                 }
