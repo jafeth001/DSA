@@ -1,4 +1,4 @@
-package linked.binaryTree;
+package binaryTree;
 
 public class BinaryTree {
     Node root;
